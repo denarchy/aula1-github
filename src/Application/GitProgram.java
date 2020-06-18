@@ -17,7 +17,7 @@ public class GitProgram {
 			palavra = sc.nextLine();
 			
 		}
-		
+		System.out.println("oi mocinha td bem com voce como está");
 		System.out.println("Entao vai dormir mocreia");
 	}
 
