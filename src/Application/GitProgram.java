@@ -7,8 +7,7 @@ public class GitProgram {
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);	
-		
-		boolean andressa = true;
+	
 		String palavra;
 		System.out.println("Voce me ama me responde nene: ");
 		palavra = sc.nextLine();
